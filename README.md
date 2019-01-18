@@ -51,7 +51,7 @@ pip install -r DA--Exploring-Weather-Trends/requirements.txt
 
 ## Contributing
 
-I accept contributions. For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+If you want to contribute, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
